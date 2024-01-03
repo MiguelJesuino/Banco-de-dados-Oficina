@@ -1,5 +1,5 @@
 # Modelo Lógico de Banco de Dados para Oficina 
-Automotiva Este repositório contém um modelo lógico de banco de dados para uma oficina automotiva, juntamente com uma série de queries SQL que podem ser utilizadas para responder a diversas perguntas e auxiliar na gestão da oficina.
+Este repositório contém um modelo lógico de banco de dados para uma oficina automotiva, juntamente com uma série de queries SQL que podem ser utilizadas para responder a diversas perguntas e auxiliar na gestão da oficina.
 
 ## Estrutura do Banco de Dados 
 O banco de dados é composto por várias tabelas que representam informações sobre clientes, veículos, serviços, peças, ordens de serviço e itens associados.
